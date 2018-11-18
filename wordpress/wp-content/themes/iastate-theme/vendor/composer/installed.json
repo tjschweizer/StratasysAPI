@@ -1,0 +1,24 @@
+[
+    {
+        "name": "iastate-theme/php",
+        "version": "2.0.12",
+        "version_normalized": "2.0.12.0",
+        "source": {
+            "type": "git",
+            "url": "https://git.its.iastate.edu/scm/iastate-theme/php.git",
+            "reference": "847c708957d2298fc5365c732a925db329337a54"
+        },
+        "require": {
+            "php": "^5.4 || ^7.0"
+        },
+        "time": "2018-03-20T21:42:26+00:00",
+        "type": "library",
+        "installation-source": "source",
+        "autoload": {
+            "psr-4": {
+                "IastateTheme\\": "src/"
+            }
+        },
+        "description": "The PHP IASTATE Theme"
+    }
+]

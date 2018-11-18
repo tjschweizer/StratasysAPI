@@ -1,0 +1,367 @@
+# Copyright (C) 2017 IASTATE Theme <theme@iastate.edu>
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: IASTATE Theme 0.3.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/iastate-theme\n"
+"POT-Creation-Date: 2017-03-16 15:18:42+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:14
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:18
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: 404.php:30
+msgid "Most Used Categories"
+msgstr ""
+
+#. translators: %1$s: smiley
+
+#: 404.php:48
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:44 comments.php:67
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:46 comments.php:69
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:83
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:91
+msgctxt "noun"
+msgid "Comment"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr ""
+
+#: functions.php:54
+msgid "Right Header"
+msgstr ""
+
+#: functions.php:58
+msgid "Sidebar Nav"
+msgstr ""
+
+#: functions.php:99
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:101
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:109
+msgid "Footer Associates"
+msgstr ""
+
+#: functions.php:111
+msgid "Add departmental relationship information."
+msgstr ""
+
+#: functions.php:118
+msgid "Footer Contact Information"
+msgstr ""
+
+#: functions.php:120
+msgid "Add contact information."
+msgstr ""
+
+#: functions.php:127
+msgid "Footer External Links"
+msgstr ""
+
+#: functions.php:129
+msgid "Add external links such as a list of social media."
+msgstr ""
+
+#: functions.php:136
+msgid "Footer Legal"
+msgstr ""
+
+#: functions.php:138
+msgid "Legal information."
+msgstr ""
+
+#: inc/customizer.php:21
+msgid "ISU Theme"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Description of panel"
+msgstr ""
+
+#: inc/customizer.php:27
+msgid "Head Options"
+msgstr ""
+
+#: inc/customizer.php:28 inc/customizer.php:33 inc/customizer.php:38
+msgid "Description of section"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Body Options"
+msgstr ""
+
+#: inc/customizer.php:37
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "No Description"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "The title separator used to separate each title part in Head Title"
+msgstr ""
+
+#: inc/customizer.php:161
+msgid "Whether to show the template header containg the dark top strip, red ribbon, and navbar."
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Whether to show the dark top strip containing utility links like site-wide logins, ISU index, directory, maps, etc."
+msgstr ""
+
+#: inc/customizer.php:163
+msgid "Whether to show the red ribbon containing the search bar, site nameplate, and site title and tagline."
+msgstr ""
+
+#: inc/customizer.php:164
+msgid "Whether to show the search box."
+msgstr ""
+
+#: inc/customizer.php:165
+msgid "Whether to show the site links beneath the search bar."
+msgstr ""
+
+#: inc/customizer.php:166
+msgid "Whether to show the site title in the red ribbon."
+msgstr ""
+
+#: inc/customizer.php:167
+msgid "Whether to render a page title contained within an <h1> before the page content."
+msgstr ""
+
+#: inc/customizer.php:168
+msgid "Whether to show the dropdown navigation."
+msgstr ""
+
+#: inc/customizer.php:169
+msgid "Whether to display dropdown on hover(true) or click(false)."
+msgstr ""
+
+#: inc/customizer.php:170
+msgid "Whether to affix navbar_menu to top of screen on scroll."
+msgstr ""
+
+#: inc/customizer.php:171
+msgid "Whether to affix the right_nav to the top of the screen on scroll."
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Whether to add active link styling to the currently scrolled to target on the page in the right_nav. This config by default sets right_nav_affix to true."
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Whether to collapse the sub_targets lists until the parent target is active (via scroll spy)."
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Whether to show the route trail as linked breadcrumbs at the top of the page below the navbar menu."
+msgstr ""
+
+#: inc/customizer.php:175
+msgid "Whether to show the footer."
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Whether to show the social link labels next to the icons."
+msgstr ""
+
+#: inc/customizer.php:177
+msgid "Whether to make the site stretch the full width"
+msgstr ""
+
+#: inc/customizer.php:178
+msgid "Uppercase menu labels"
+msgstr ""
+
+#: inc/customizer.php:179
+msgid "The site title displayed in the left hand side of the red ribbon."
+msgstr ""
+
+#: inc/customizer.php:180
+msgid "The action used to submit the search form."
+msgstr ""
+
+#: inc/customizer.php:181
+msgid "The search input placeholder text."
+msgstr ""
+
+#: inc/customizer.php:182
+msgid "Contact address"
+msgstr ""
+
+#: inc/customizer.php:183
+msgid "Contact email"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Contact phone number"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "Contact fax"
+msgstr ""
+
+#: inc/customizer.php:186
+msgid "Social links. <br>One link per-line<br>format: <strong>\"[url]:[label(optional)]\"</strong>"
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Associated departmets. <br>One link per-line<br>format: <strong>\"[label]:[url(optional)]\"</strong>"
+msgstr ""
+
+#. translators: %s: Name of current post
+
+#: inc/main.php:47
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/main.php:65
+msgid "Theme Display"
+msgstr ""
+
+#: inc/shortcode-carousel.php:121
+msgid "Carousel URL"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "No Comments"
+msgstr ""
+
+#: inc/template-tags.php:32
+msgid " Comments"
+msgstr ""
+
+#: inc/template-tags.php:34
+msgid "1 Comment"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+
+#: inc/template-tags.php:69 inc/template-tags.php:75
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:71 inc/template-tags.php:77
+msgid " %1$s"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:89
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/widget-carousel.php:14
+msgid "Widget Title"
+msgstr ""
+
+#: inc/widget-carousel.php:15
+msgid "A Foo Widget"
+msgstr ""
+
+#: inc/widget-carousel.php:32
+msgid "Hello, World!"
+msgstr ""
+
+#: inc/widget-carousel.php:44
+msgid "New title"
+msgstr ""
+
+#: inc/widget-carousel.php:47
+msgid "Title:"
+msgstr ""
+
+#: search.php:14
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:17
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-page.php:19 template-parts/content.php:38
+msgid "Pages:"
+msgstr ""
+
+#. translators: %s: Name of current post.
+
+#: template-parts/content.php:33
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "IASTATE Theme"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.theme.iastate.edu"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "IASTATE Theme <theme@iastate.edu>"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://theme.iastate.edu"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Full Width Template"
+msgstr ""
